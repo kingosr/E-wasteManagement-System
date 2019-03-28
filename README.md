@@ -16,3 +16,7 @@ this application is mainly devided into three part- 1) Users Panel, 2) Employee 
       - our employee will pickup the e waste from doorstep
 2) Employee panel:- this is onlye accessible by authorized employees. 
 3) Admin panel:- it is onlye accessible by authorized admins from local system, it can't be accessible from remote system.
+
+
+
+i developed this application in a hackathon in DIT University organzied by CSI-DITU club with team members Manal pal and aman kothiyal. since this application wasn't totally completed in that hackathon so we are currently working on it make it full fledge.
